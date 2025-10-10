@@ -1,6 +1,6 @@
 const express = require('express');
 //import vår DB
-const database = require('./db');
+const database = require('./mysqldb');
 
 const app = express();
 
