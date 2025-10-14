@@ -1,5 +1,5 @@
-# Node.js dependencies
-.node_modules/
+# Node dependencies
+node_modules/
 
 # Logs
 logs/
@@ -8,4 +8,8 @@ logs/
 # Environment files
 .env
 
-.package-lock.json
+# Lock files
+package-lock.json
+
+# System files
+.DS_Store
